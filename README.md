@@ -6,7 +6,7 @@ NOTE:You need to install the webDriver for chrome as it is not included in the S
 
 To make the code run every 30 min, I used a simple command 'watch'(Designed to repetative run ls command, to 'watch' the changes in a folder).
 
-1. Insatll selenium for python
+1. Install selenium for python
 2. Change the path location on line 5
 3. Open terminal and execute :watch -n 1800 python new.py
 (Program will run till terminal is open)
